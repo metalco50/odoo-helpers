@@ -3,6 +3,8 @@
     'version': '19.0.1.0.3',
     'category': 'Productivity/Documents',
     'summary': 'Upload large files to Documents in small pieces, below the hosting proxy limit',
+    'author': 'Mr. G for METALCO',
+    'website': 'https://github.com', 
     'description': """
 Large files (default: above 60 MB) are sent from the browser in 25 MB pieces
 through /documents/upload_chunk, then assembled and stored by
